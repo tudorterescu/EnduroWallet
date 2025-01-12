@@ -83,8 +83,7 @@ Moving forward, we aim to enhance the user experience by:
 
 Our team collaborated through Discord and utilized the GitHub project board for task management.
 
-- **Kobe and Emma:** Front-end development, crafting a user-friendly interface.
-- **Tudor and Brent:** Focused on the backend, establishing a secure and scalable data management system.
+- **Kobe and Tudor**
 
 ## Collaboration and Communication
 
