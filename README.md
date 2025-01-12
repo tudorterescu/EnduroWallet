@@ -1,4 +1,5 @@
 # EnduroWallet: Personal Finance Dashboard
+-University Project
 
 For deployment instructions, please see the [Deployment Guide](DEPLOYMENT.md).
 
